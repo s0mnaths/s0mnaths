@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/s0mnaths"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 ### Hi there, I'm Somnath 👋
-<a href="octodex.github.com/images/boxertocat_octodex/"><img src="https://octodex.github.com/images/boxertocat_octodex.jpg" width="300" align="right"></a>
+<a href="octodex.github.com/images/boxertocat_octodex/"><img src="https://octodex.github.com/images/boxertocat_octodex.jpg" width="200"  align="right" style="filter:FlipH"></a>
 
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-s0mnaths-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/s0mnaths/)
