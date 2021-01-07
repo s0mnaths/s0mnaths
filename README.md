@@ -1,8 +1,8 @@
-<p align="center"><a href="https://github.com/yashk2000"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/s0mnaths"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 ### Hi there, I'm Somnath 👋
+<a href="octodex.github.com/images/boxertocat_octodex/"><img src="https://octodex.github.com/images/boxertocat_octodex.jpg" width="300" align="right"></a>
 
-<a href="https://octodex.github.com/images/boxertocat_octodex.jpg"><img src="https://octodex.github.com/images/pythocat.png" width="300" align="right"></a>
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-s0mnaths-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/s0mnaths/)
 [![twitter badge](https://img.shields.io/badge/twitter-@s0mnaths-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/s0mnaths)
@@ -17,4 +17,4 @@
 - 😄 Pronouns: He/Him/His
 
 
-<p align="center"><a href="https://github.com/yashk2000"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/s0mnaths"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
