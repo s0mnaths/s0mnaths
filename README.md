@@ -11,8 +11,8 @@
 
 
 - 🌱 Interested in Deep Learning and Web development
-- 🔭 Currently working on making game bots using DL
-- 📫 How to reach me: Send me an [Email](mailto:somnathsharmaji05@gmail.com) or ping me [@s0mnaths](https://t.me/s0mnaths).
+- 🔭 Currently looking into various methods of image segmentation on biomedical images
+- 📫 How to reach me: Send me an [Email](mailto:somnathsharmaji05@gmail.com) or ping me on Telegram [@s0mnaths](https://t.me/s0mnaths).
 - 😄 Pronouns: He/Him/His
 
 <br>
