@@ -12,7 +12,7 @@
 
 
 - 🌱 Interested in Deep Learning and Computer Vision
-- 🔭 Currently working on a library to detect facial landmarks and face position 
+- 🔭 Currently working on creating light weight eye trackers 
 - 📫 How to reach me: Send me an [Email](mailto:somnathsharmaji05@gmail.com) or ping me on Telegram [@s0mnaths](https://t.me/s0mnaths).
 - 😄 Pronouns: He/Him/His
 
